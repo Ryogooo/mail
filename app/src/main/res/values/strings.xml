@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mail</string>
+    <string name="btm">迎えに来て</string>
+    <string name="btm2">今日のご飯</string>
+    <string name="title">件名</string>
+    <string name="place">場所</string>
+    <string name="station">最寄り駅</string>
+    <string name="school">学校</string>
+    <string name="company">会社</string>
+    <string name="send">送信</string>
+    <string name="mail_to">carp193@yahoo.co.jp</string>
+    <string name="line">LINEで送る</string>
+</resources>
